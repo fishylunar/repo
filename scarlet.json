@@ -1,0 +1,25 @@
+{
+    "META": {
+        "repoName": "Moonlight Valley",
+        "repoIcon": "https://fishylunar.github.io/repo/assets/repo_icon.png"
+    },
+    "Applications": [
+        {
+            "name": "WikipediaNoDonate",
+            "version": "1.0",
+            "icon": "https://fishylunar.github.io/repo/assets/moonlightindustries/WikipediaNoDonate/icon.png",
+            "down": "https://fishylunar.github.io/repo/ipas/WikipediaNoDonate-release.ipa",
+            "category": "Applications",
+            "banner": "https://fishylunar.github.io/repo/assets/repo_banner.png",
+            "description": "Safari Extension to remove Wikipedia's donate banners and advertisements.",
+            "bundleID": "moonlightindustries.WikipediaNoDonate",
+            "contact": {
+                "web": "https://github.com/fishylunar"
+            },
+            "screenshots": [
+                "https://fishylunar.github.io/repo/assets/moonlightindustries/WikipediaNoDonate/screenshot1.png",
+                "https://fishylunar.github.io/repo/assets/moonlightindustries/WikipediaNoDonate/screenshot1.png"
+            ]
+        }
+    ]
+}
