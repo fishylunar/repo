@@ -17,6 +17,7 @@
         "localizedDescription": "Safari Extension to remove Wikipedia's donate banners and advertisements.",
         "iconURL": "https://fishylunar.github.io/repo/assets/moonlightindustries/WikipediaNoDonate/app_icon.png",
         "tintColor": "#F54F32",
+        "hasAndroidVersion": true,
         "screenshotURLs": [
             "https://fishylunar.github.io/repo/assets/moonlightindustries/WikipediaNoDonate/screenshot1.png",
             "https://fishylunar.github.io/repo/assets/moonlightindustries/WikipediaNoDonate/screenshot2.png"
@@ -29,6 +30,15 @@
             "size": 5574071,
             "minOSVersion": "14.0",
             "maxOSVersion": "17.0"
+        }],
+        "versions_android": [{
+            "version": "1.0",
+            "date": "2024-03-26",
+            "localizedDescription": "Chrome Extension to remove Wikipedia's donate banners and advertisements.",
+            "downloadURL": "https://fishylunar.github.io/repo/apks/WikipediaNoDonate-release.apk",
+            "size": 1252939,
+            "minOSVersion": "10.0",
+            "maxOSVersion": "14.0"
         }],
         "appPermissions": {}
     }],
