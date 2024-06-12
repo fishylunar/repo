@@ -1,0 +1,38 @@
+{
+    "name": "Moonlight Valley",
+    "subtitle": "Collection of my iOS projects",
+    "description": "A collection of my various iOS projects jailbroken or not",
+    "iconURL": "https://fishylunar.github.io/repo/assets/repo_icon.png",
+    "headerURL": "https://fishylunar.github.io/repo/assets/repo_banner.png",
+    "website": "https://github.com/fishylunar",
+    "tintColor": "#1E193C",
+    "featuredApps": [],
+    "apps": [
+        {
+            "name": "WikipediaNoDonate",
+            "bundleIdentifier": "moonlightindustries.WikipediaNoDonate",
+            "developerName": "Moonlight Industries",
+            "subtitle": "Uninterrupted wikipedia",
+            "localizedDescription": "Safari Extension to remove Wikipedia's donate banners and advertisements.",
+            "iconURL": "https://fishylunar.github.io/repo/assets/moonlightindustries/WikipediaNoDonate/icon.png",
+            "tintColor": "#F54F32",
+            "screenshotURLs": [
+                "https://fishylunar.github.io/repo/assets/moonlightindustries/WikipediaNoDonate/screenshot1.png",
+                "https://fishylunar.github.io/repo/assets/moonlightindustries/WikipediaNoDonate/screenshot1.png"
+            ],
+            "versions": [
+                {
+                  "version": "1.0",
+                  "date": "2024-03-26",
+                  "localizedDescription": "Safari Extension to remove Wikipedia's donate banners and advertisements.",
+                  "downloadURL": "https://fishylunar.github.io/repo/ipas/WikipediaNoDonate-release.ipa",
+                  "size": 5574071,
+                  "minOSVersion": "14.0",
+                  "maxOSVersion": "17.0"
+                }
+              ],
+            "appPermissions": {}
+        }
+    ],
+    "news": []
+  }

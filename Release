@@ -1,0 +1,8 @@
+Origin: Moonlight Valley
+Label: Moonlight Valley
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: Moonlight Valley - Small repo for my various projects :)

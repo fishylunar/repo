@@ -1,0 +1,13 @@
+Package: moonlightindustries.WikipediaNoDonate
+Version: 1.0
+Section: Tweaks
+Maintainer: Jay Fox <jayyisdev@gmail.com>
+Depends: firmware (>15.0)
+Architecture: iphoneos-arm
+Filename: ./debs/moonlightindustries.WikipediaNoDonate_iphoneos-arm.deb
+Size: 2436052
+MD5sum: bb57e51434012ddb8ef568055955c68a
+Description: Safari Extension to remove Wikipedia's donate banners and advertisements.
+Name: WikipediaNoDonate
+Author: Jay Fox, Moonlight Industries <jayyisdev@gmail.com>
+Depiction: https://fishylunar.github.io/repo/depictions/?p=moonlightindustries.WikipediaNoDonate

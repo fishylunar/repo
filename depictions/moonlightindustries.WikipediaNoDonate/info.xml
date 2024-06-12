@@ -1,0 +1,27 @@
+<package>
+	<id>moonlightindustries.WikipediaNoDonate</id>
+	<name>WikipediaNoDonate</name>
+	<version>1.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>15.0</miniOS>
+		</firmware>
+	</compatibility>
+	<shortDescription>Firmware should be greater than 15.0</shortDescription>
+	<descriptionlist>
+		<description>Safari Extension to remove Wikipedia's donate banners and advertisements.</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description>App main view, nothing to see here.</description>
+			<image>screenshot1.png</image>
+		</screenshot>		
+		<screenshot>
+			<description>Popup menu accessed through Safari.</description>
+			<image>screenshot2.png</image>
+		</screenshot>		
+	</screenshots>
+	<changelog>
+		<change>Public Release</change>
+	</changelog>
+</package>
