@@ -1,38 +1,44 @@
 {
     "name": "Moonlight Valley",
+    "identifier": "io.github.fishylunar",
     "subtitle": "Collection of my iOS projects",
     "description": "A collection of my various iOS projects jailbroken or not",
     "iconURL": "https://fishylunar.github.io/repo/assets/repo_icon.png",
     "headerURL": "https://fishylunar.github.io/repo/assets/repo_banner.png",
     "website": "https://github.com/fishylunar",
     "tintColor": "#1E193C",
-    "featuredApps": [],
-    "apps": [
-        {
-            "name": "WikipediaNoDonate",
-            "bundleIdentifier": "moonlightindustries.WikipediaNoDonate",
-            "developerName": "Moonlight Industries",
-            "subtitle": "Uninterrupted wikipedia",
+    "featuredApps": ["moonlightindustries.WikipediaNoDonate"],
+    "apps": [{
+        "name": "WikipediaNoDonate",
+        "bundleIdentifier": "moonlightindustries.WikipediaNoDonate",
+        "developerName": "Moonlight Industries",
+        "subtitle": "Uninterrupted wikipedia",
+        "localizedDescription": "Safari Extension to remove Wikipedia's donate banners and advertisements.",
+        "iconURL": "https://fishylunar.github.io/repo/assets/moonlightindustries/WikipediaNoDonate/icon.png",
+        "tintColor": "#F54F32",
+        "screenshotURLs": [
+            "https://fishylunar.github.io/repo/assets/moonlightindustries/WikipediaNoDonate/screenshot1.png",
+            "https://fishylunar.github.io/repo/assets/moonlightindustries/WikipediaNoDonate/screenshot1.png"
+        ],
+        "versions": [{
+            "version": "1.0",
+            "date": "2024-03-26",
             "localizedDescription": "Safari Extension to remove Wikipedia's donate banners and advertisements.",
-            "iconURL": "https://fishylunar.github.io/repo/assets/moonlightindustries/WikipediaNoDonate/icon.png",
-            "tintColor": "#F54F32",
-            "screenshotURLs": [
-                "https://fishylunar.github.io/repo/assets/moonlightindustries/WikipediaNoDonate/screenshot1.png",
-                "https://fishylunar.github.io/repo/assets/moonlightindustries/WikipediaNoDonate/screenshot1.png"
-            ],
-            "versions": [
-                {
-                  "version": "1.0",
-                  "date": "2024-03-26",
-                  "localizedDescription": "Safari Extension to remove Wikipedia's donate banners and advertisements.",
-                  "downloadURL": "https://fishylunar.github.io/repo/ipas/WikipediaNoDonate-release.ipa",
-                  "size": 5574071,
-                  "minOSVersion": "14.0",
-                  "maxOSVersion": "17.0"
-                }
-              ],
-            "appPermissions": {}
-        }
-    ],
-    "news": []
-  }
+            "downloadURL": "https://fishylunar.github.io/repo/ipas/WikipediaNoDonate-release.ipa",
+            "size": 5574071,
+            "minOSVersion": "14.0",
+            "maxOSVersion": "17.0"
+        }],
+        "appPermissions": {}
+    }],
+    "news": [{
+        "title": "WikipediaNoDonate 1.0 has been released!",
+        "identifier": "oonlightindustries.WikipediaNoDonate-1.0-release",
+        "caption": "The public version of WikipediaNoDonate version 1.0 has been released!",
+        "date": "2024-03-26T00:00:00.0000000Z",
+        "tintColor": "0074f8",
+        "imageURL": "https://fishylunar.github.io/repo/assets/repo_banner.png",
+        "url": "https://github.com/fishylunar/WikipediaNoDonate",
+        "notify": false
+    }]
+}
